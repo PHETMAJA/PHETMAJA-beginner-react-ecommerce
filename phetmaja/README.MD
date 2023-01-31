@@ -28,3 +28,9 @@
    7.10 create route for /api/products
    7.11 return products
    7.12 run npm start
+8. Fetch Products From Backend
+   8.1 set proxy in package.json
+   8.2 npm install axios
+   8.3 use state hook
+   8.4 use effect hook
+   8.5 use reducer hook
