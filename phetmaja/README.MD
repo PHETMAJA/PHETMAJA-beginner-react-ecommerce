@@ -38,3 +38,6 @@
    9.1 define reducer
    9.2 update fetch data
    9.3 get state useReducer
+10. Add bootstrap UI Framework
+    10.1 npm install react-bootstrap bootstrap
+    10.2 update App.js
